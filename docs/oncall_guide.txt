@@ -1,0 +1,4 @@
+On-Call Guide
+Engineers carry the pager one week in every six. When the pager fires, acknowledge the alert within 5 minutes.
+If you do not acknowledge in 15 minutes, the alert escalates to the secondary engineer.
+After every severity 1 incident, the on-call engineer must write a postmortem within three business days. Postmortems are blameless and focus on fixing the system, not blaming people.

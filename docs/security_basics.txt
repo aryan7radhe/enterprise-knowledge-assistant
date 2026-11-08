@@ -1,0 +1,4 @@
+Security Basics
+Production API keys are rotated every 90 days and stored in the company vault. Never paste keys into chat or email.
+Use a password manager and enable two-factor authentication on every work account.
+Report any lost laptop or phone to the security team within one hour.
